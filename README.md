@@ -1,10 +1,10 @@
 
-<a href="https://github.com/stocktons/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-oh-rats.vercel.app/api?username=stocktons&rank_icon=github" />
 </a>
-<a href="https://github.com/stocktons/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-oh-rats.vercel.app/api/top-langs/?username=stocktons" />
-</a>
+
+<img height=200 align="center" src="https://github-readme-stats-oh-rats.vercel.app/api/top-langs/?username=stocktons" />
+
 
 
 
