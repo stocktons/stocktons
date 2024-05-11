@@ -1,9 +1,9 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-oh-rats.vercel.app/api?username=stocktons&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats-oh-rats.vercel.app/api?username=stocktons&rank_icon=github&theme=tokyonight" />
 </a>
 
-<img height=200 align="center" src="https://github-readme-stats-oh-rats.vercel.app/api/top-langs/?username=stocktons" />
+<img height=200 align="center" src="https://github-readme-stats-oh-rats.vercel.app/api/top-langs/?username=stocktons&layout=compact&theme=tokyonight" />
 
 
 
