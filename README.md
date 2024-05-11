@@ -15,6 +15,15 @@ I'm a detail-oriented, flexible thinker with a sense of humor. I find joy in sol
 - 🌱 a plant care app,
 - 🫣 and way too many other things...
 
+### Tech
+<div align="center"> 
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white" />
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" />
+</div>
+
+<hr>
+
 <div align="center">
 <a href="https://github.com/stocktons/github-readme-stats">
   <img src="https://github-readme-stats-oh-rats.vercel.app/api?username=stocktons&rank_icon=github&theme=tokyonight&hide=stars&show_icons=true&custom_title=GitHub%20Stats" />
@@ -25,7 +34,4 @@ I'm a detail-oriented, flexible thinker with a sense of humor. I find joy in sol
   <img src="https://github-readme-stats-oh-rats.vercel.app/api/top-langs/?username=stocktons&layout=compact&theme=tokyonight&card_width=467&hide=DIGITAL%20Command%20Language&exclude_repo=test_sis,test_nums" />
 </div>
 
-### Tech
-<div align="center"> 
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-</div>
+
