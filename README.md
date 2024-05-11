@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 <a href="https://github.com/stocktons/github-readme-stats">
-  <img src="https://github-readme-stats-oh-rats.vercel.app/api?username=stocktons&rank_icon=github&theme=tokyonight&hide=stars&show_icons=true&custom_title=GitHub%20Stats" />
+  <img src="https://github-readme-stats-oh-rats.vercel.app/api?username=stocktons&rank_icon=github&theme=tokyonight&hide=stars&show_icons=true&custom_title=GitHub%20Stats&exclude_repo=test_sis,test_nums" />
 </a>
 </div>
 <div align="center">
