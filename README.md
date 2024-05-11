@@ -3,11 +3,11 @@
 </div>
 <div align="center">
 <a href="https://github.com/stocktons/github-readme-stats">
-  <img src="https://github-readme-stats-oh-rats.vercel.app/api?username=stocktons&rank_icon=github&theme=tokyonight&hide=stars&show_icons=true&custom_title=GitHub%20Stats&exclude_repo=test_sis,test_nums" />
+  <img src="https://github-readme-stats-oh-rats.vercel.app/api?username=stocktons&rank_icon=github&theme=tokyonight&hide=stars&show_icons=true&custom_title=GitHub%20Stats" />
 </a>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats-oh-rats.vercel.app/api/top-langs/?username=stocktons&layout=compact&theme=tokyonight&card_width=467&hide=DIGITAL%20Command%20Language" />
+  <img src="https://github-readme-stats-oh-rats.vercel.app/api/top-langs/?username=stocktons&layout=compact&theme=tokyonight&card_width=467&hide=DIGITAL%20Command%20Language&exclude_repo=test_sis,test_nums" />
 </div>
 
 
