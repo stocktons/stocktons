@@ -3,7 +3,7 @@
   <img height=200 align="center" src="https://github-readme-stats-oh-rats.vercel.app/api?username=stocktons&rank_icon=github&theme=tokyonight" />
 </a>
 
-<img height=200 align="center" src="https://github-readme-stats-oh-rats.vercel.app/api/top-langs/?username=stocktons&layout=compact&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats-oh-rats.vercel.app/api/top-langs/?username=stocktons&layout=compact&theme=tokyonight" />
 
 
 
