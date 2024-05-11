@@ -1,5 +1,5 @@
 <div align="center">  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=dm+mono&weight=600&size=35&duration=3000&pause=1000&color=6FA3F9&center=true&repeat=false&random=false&width=435&lines=Sarah+Stockton)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com?font=dm+mono&weight=600&size=35&duration=3000&pause=1000&color=6FA3F9&center=true&repeat=false&random=false&width=435&lines=Sarah+Stockton)](https://git.io/typing-svg" />
 </div>
 <div align="center">
 <a href="https://github.com/stocktons/github-readme-stats">
