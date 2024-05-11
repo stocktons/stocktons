@@ -1,6 +1,6 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-oh-rats.vercel.app/api?username=stocktons&rank_icon=github&theme=tokyonight&hide=stars&show_icons=true" />
+  <img align="center" src="https://github-readme-stats-oh-rats.vercel.app/api?username=stocktons&rank_icon=github&theme=tokyonight&hide=stars&show_icons=true&custom_title=GitHub%20Stats" />
 </a>
 
 <img align="center" src="https://github-readme-stats-oh-rats.vercel.app/api/top-langs/?username=stocktons&layout=compact&theme=tokyonight&card_width=467" />
