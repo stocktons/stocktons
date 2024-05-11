@@ -15,7 +15,7 @@ I'm a detail-oriented, flexible thinker with a sense of humor. I find joy in sol
 - 🌱 a plant care app,
 - 🫣 and way too many other things...
 
-### Tech:
+### Tech & tools:
 <div align="center"> 
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" />
