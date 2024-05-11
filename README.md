@@ -81,7 +81,6 @@ I'm a detail-oriented, flexible thinker with a sense of humor. I find joy in sol
   <img src="https://img.shields.io/badge/Udemy-A435F0?style=plastic&logo=Udemy&logoColor=white" />
 </div>
 
-<hr>
 
 <div align="center">
 <a href="https://github.com/stocktons/github-readme-stats">
