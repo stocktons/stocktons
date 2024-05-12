@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=dm+mono&weight=600&size=35&duration=3000&pause=1000&color=6FA3F9&center=true&repeat=false&random=false&width=435&lines=Sarah+Stockton" />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=dm+mono&size=30&duration=2000&pause=500&color=30BEAE&center=true&random=true&width=435&lines=Full-Stack+Engineer;Educator;Dad+joke+connoisseur;Full-Stack+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=dm+mono&size=30&duration=2000&pause=500&color=30BEAE&center=true&random=true&width=435&lines=Educator;Full-Stack+Engineer;Dad+joke+connoisseur;Full-Stack+Engineer" alt="Typing SVG" />
 </div>
 
 
